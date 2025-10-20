@@ -1,5 +1,7 @@
 # PLP MERN Stack Classroom React Project
 
+Live link: https://react-task-manager-web.netlify.app/
+
 A modern React + Vite + Tailwind CSS front-end project for mastering component design, theming, and API integration. Features include:
 
 - Custom Navbar, Footer, Card, Layout, and TaskManager components
